@@ -1,4 +1,24 @@
-## Hi 👋, I'm a PhD student at the LIS Lab at the Ecole Centrale Méditerranée
+## Hi 👋, I'm an AI & Data Engineer with 2.5 years of experience
+
+<style>
+/* Data Engineering & Cloud */
+img[alt="Python"] { filter: invert(35%) sepia(95%) saturate(494%) hue-rotate(182deg) brightness(90%) contrast(85%); }
+img[alt="Snowflake"] { filter: invert(71%) sepia(87%) saturate(4929%) hue-rotate(183deg) brightness(101%) contrast(97%); }
+img[alt="BigQuery"] { filter: invert(29%) sepia(90%) saturate(1548%) hue-rotate(201deg) brightness(93%) contrast(89%); }
+img[alt="MongoDB"] { filter: invert(42%) sepia(83%) saturate(2184%) hue-rotate(77deg) brightness(93%) contrast(83%); }
+
+/* Data Pipeline Tools */
+img[alt="Airbyte"] { filter: invert(37%) sepia(74%) saturate(1045%) hue-rotate(210deg) brightness(91%) contrast(98%); }
+img[alt="DBT"] { filter: invert(37%) sepia(99%) saturate(1783%) hue-rotate(161deg) brightness(96%) contrast(101%); }
+img[alt="Airflow"] { filter: invert(42%) sepia(83%) saturate(2184%) hue-rotate(77deg) brightness(93%) contrast(83%); }
+
+/* Infrastructure & DevOps */
+img[alt="Docker"] { filter: invert(31%) sepia(62%) saturate(7497%) hue-rotate(195deg) brightness(97%) contrast(104%); }
+img[alt="Terraform"] { filter: invert(35%) sepia(95%) saturate(494%) hue-rotate(262deg) brightness(90%) contrast(85%); }
+img[alt="GCP"] { filter: invert(29%) sepia(90%) saturate(1548%) hue-rotate(201deg) brightness(93%) contrast(89%); }
+img[alt="AWS"] { filter: invert(42%) sepia(83%) saturate(2184%) hue-rotate(27deg) brightness(93%) contrast(83%); }
+</style>
+
 <p align="left">
   <a href="https://github.com/ramzidahmani?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ramzidahmani?color=green&logo=github">
@@ -12,30 +32,54 @@
 </p>
 
 ### Now
-- :mag: PhD student on Underwater Wireless Optical Communication and Deep Learning in Signal Processing field
-- :fire: Interested in the use of Machine Learning and Deep Learning in wireless communications
-- :calendar: Looking for contributing to python based open source projects and Machine Learning and Deep Learning competitions
+- 💼 Data Engineer at **Modeo.AI**, working with multiple clients in different sectors.
+- 🚀 Specialized in building and optimizing data platforms, implementing ML solutions
+- 🔧 Expertise in data engineering, analytics, and DevOps practices
+- 📊 Working with cloud technologies (GCP, AWS) and modern data stack (Snowflake, Airbyte, DBT)
 
 ### Bio
-- 🏢 I'm currently PhD Student at **Laboratoire d'Informatique & des Systèmes at Centrale Méditerranée**
-- ⚙️ I use daily: `.py`, `.sql`, `.ipynb`, `.json`,  `.md`, `.c`, `.cpp` and `.js`
-- 🌱 Learning all about **Data science** and **Machine Learning**
-- 💬 Ping me about **Python**, **Web scraping**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Signal processing**, **Optics**
+- 🏢 I'm currently a Data Engineer at **Modeo.AI**
+- ⚙️ I use daily: `.py`, `.sql`, `.hcl`, `.json`,  `.md`, `.c`, `.cpp` and `.js`
+- 🌱 Learning all about **Data Engineering** and **IA Applications**
 - 📫 Reach me: [linkedin.com/salah-dahmani/](https://www.linkedin.com/in/salah-dahmani/)
 - :email: Send me an email to dahmani.salah@outlook.com
-- 📝 Checkout my [Resume](./files/cv.pdf).
+- 📝 Checkout my [Resume](./files/cv/cv.pdf).
 
-### My current stack
-<img height="48" src="img/python.svg" alt="python"> <img height="48" src="img/postgresql.svg" alt="postgresql"> <img height="48" src="img/Linux.svg" alt="Linux"> <img height="48" src="img/aws.svg" alt="AWS"> <img height="48" src="img/amazon-s3.svg" alt="Amazon S3"> <img height="48" src="img/aws-redshift.svg" alt="Amazon Redshift"> <img height="48" src="img/Git.svg" alt="Git">
+<!-- ### Technical Stack
 
-### Data visualization tools used
-<img height="48" src="img/google-data-studio.svg" alt="Google Data Studio"> <img height="48" src="img/amazon-quicksight.svg" alt="Amazon Quicksight"> <img height="48" src="img/Power_BI.svg" alt="Power BI">
+#### 🛠 Languages & Databases
+<img height="48" src="colored_logos/python-original.svg" alt="Python"> 
+<img height="48" src="colored_logos/postgresql-original.svg" alt="PostgreSQL"> 
+<img height="48" src="colored_logos/mongodb-original.svg" alt="MongoDB">
 
-### Python libraries mastered
-<img height="48" src="img/pandas.svg" alt="Pandas"> <img height="48" src="img/numpy.svg" alt="Numpy"> <img height="48" src="img/Matplotlib.svg" alt="Matplotlib"> <img height="48" src="img/seaborn.svg" alt="Seaborn"> <img height="48" src="img/Scikitlearn.svg" alt="Scikitlearn"> <img height="48" src="img/keras.svg" alt="Keras"> <img height="48" src="img/tensorflow.svg" alt="Tensorflow"> <img height="48" src="img/pytorch-icon.svg" alt="Pytorch"> <img height="48" src="img/OpenCV.svg" alt="OpenCV"> <img height="48" src="img/selenium.svg" alt="Selenium"> 
+#### ☁️ Cloud & Data Warehouses
+<img height="48" src="colored_logos/snowflake-new.svg" alt="Snowflake"> 
+<img height="48" src="colored_logos/bigquery-new.svg" alt="BigQuery">
 
-### Softwares and tools I use daily
-<img height="48" src="img/vscode.svg" alt="vscode"> <img height="48" src="img/DBeaver.svg" alt="DBeaver"> <img height="48" src="img/datagrip.svg" alt="datagrip"> <img height="48" src="img/s3browser.png" alt="s3 browser"> <img height="48" src="img/postman.svg" alt="postman"> <img height="48" src="img/colab.svg" alt="Google colab"> <img height="48" src="img/Gradient.png" alt="Paperspace Gradient"> <img height="48" src="img/notion.svg" alt="Notion"> <img height="48" src="img/Obsidian.svg" alt="Obsidian">
+#### 🔄 Data Integration & Transformation
+<img height="48" src="colored_logos/airbyte.svg" alt="Airbyte"> 
+<img height="48" src="colored_logos/dbt.svg" alt="DBT"> 
+<img height="48" src="colored_logos/fivetran.svg" alt="Fivetran"> 
+<img height="48" src="colored_logos/datastream.svg" alt="DataStream">
+
+#### 🎯 Orchestration
+<img height="48" src="colored_logos/airflow-new.svg" alt="Airflow"> 
+<img height="48" src="colored_logos/workflow-new.svg" alt="Google Workflow">
+
+#### 📊 Data Visualization
+<img height="48" src="colored_logos/powerbi.svg" alt="PowerBI"> 
+<img height="48" src="colored_logos/looker-new.svg" alt="Looker"> 
+<img height="48" src="colored_logos/streamlit.svg" alt="Streamlit"> 
+<img height="48" src="colored_logos/metabase-new.svg" alt="Metabase">
+
+#### ⚙️ Infrastructure & DevOps
+<img height="48" src="colored_logos/docker-new.svg" alt="Docker"> 
+<img height="48" src="colored_logos/terraform-new.svg" alt="Terraform">
+
+#### 🔧 Development Tools
+<img height="48" src="colored_logos/gitlab.svg" alt="GitLab">
+<img height="48" src="colored_logos/postman.svg" alt="Postman">
+-->
 
 ### Development Stuffs
 
@@ -59,19 +103,17 @@
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=ramzidahmani&theme=tokyonight&hide_border=true" alt="Mohamed Nennouche's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=ramzidahmani&theme=tokyonight&hide_border=true" alt="Salah's GitHub Streak Stats" /> </a>
     </td>
   </tr>
 </table>
 
-
-#### :chart_with_upwards_trend: Competitions
-Coming soon
+<!-- These stats are powered by a self-hosted instance of github-readme-stats to include all contributions -->
 
 ### Connect with me
 <div id="social-media" style="text-align:left">
     <a href="https://www.linkedin.com/in/salah-dahmani/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
     </a>
-    <a href="mailto:dahmani.salah@outlook.com"> <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+    <a href="mailto:dahmani.salah@outlook.com"> <img src="https://img.shields.io/badge/outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/></a>
 </div>
