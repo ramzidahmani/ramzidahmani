@@ -1,24 +1,5 @@
 ## Hi 👋, I'm an AI & Data Engineer with 2.5 years of experience
 
-<style>
-/* Data Engineering & Cloud */
-img[alt="Python"] { filter: invert(35%) sepia(95%) saturate(494%) hue-rotate(182deg) brightness(90%) contrast(85%); }
-img[alt="Snowflake"] { filter: invert(71%) sepia(87%) saturate(4929%) hue-rotate(183deg) brightness(101%) contrast(97%); }
-img[alt="BigQuery"] { filter: invert(29%) sepia(90%) saturate(1548%) hue-rotate(201deg) brightness(93%) contrast(89%); }
-img[alt="MongoDB"] { filter: invert(42%) sepia(83%) saturate(2184%) hue-rotate(77deg) brightness(93%) contrast(83%); }
-
-/* Data Pipeline Tools */
-img[alt="Airbyte"] { filter: invert(37%) sepia(74%) saturate(1045%) hue-rotate(210deg) brightness(91%) contrast(98%); }
-img[alt="DBT"] { filter: invert(37%) sepia(99%) saturate(1783%) hue-rotate(161deg) brightness(96%) contrast(101%); }
-img[alt="Airflow"] { filter: invert(42%) sepia(83%) saturate(2184%) hue-rotate(77deg) brightness(93%) contrast(83%); }
-
-/* Infrastructure & DevOps */
-img[alt="Docker"] { filter: invert(31%) sepia(62%) saturate(7497%) hue-rotate(195deg) brightness(97%) contrast(104%); }
-img[alt="Terraform"] { filter: invert(35%) sepia(95%) saturate(494%) hue-rotate(262deg) brightness(90%) contrast(85%); }
-img[alt="GCP"] { filter: invert(29%) sepia(90%) saturate(1548%) hue-rotate(201deg) brightness(93%) contrast(89%); }
-img[alt="AWS"] { filter: invert(42%) sepia(83%) saturate(2184%) hue-rotate(27deg) brightness(93%) contrast(83%); }
-</style>
-
 <p align="left">
   <a href="https://github.com/ramzidahmani?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ramzidahmani?color=green&logo=github">
