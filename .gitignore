@@ -80,3 +80,6 @@ files/cv/*
 
 files/cover_letter/*
 img/*
+
+.DS_Store
+.venv
