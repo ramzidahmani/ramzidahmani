@@ -24,7 +24,7 @@
 - 🌱 Learning all about **Data Engineering** and **IA Applications**
 - 📫 Reach me: [linkedin.com/salah-dahmani/](https://www.linkedin.com/in/salah-dahmani/)
 - :email: Send me an email to dahmani.salah@outlook.com
-- 📝 Checkout my [Resume](./files/cv/cv.pdf).
+- Check my portfolio right here : https://ramzidahmani.github.io/
 
 <!-- ### Technical Stack
 
