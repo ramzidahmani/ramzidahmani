@@ -76,9 +76,6 @@ yarn-error.log*
 
 # Custom rules for this repo
 files/cv/*
-!files/cv/cv.pdf
-!files/cv/cv_fr.pdf
-
 files/cover_letter/*
 img/*
 
