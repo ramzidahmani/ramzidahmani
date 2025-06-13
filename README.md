@@ -1,4 +1,4 @@
-## Hi 👋, I'm an AI & Data Engineer with 2.5 years of experience
+## Hi 👋, I'm an AI & Data Engineer with 3 years of experience
 
 <p align="left">
   <a href="https://github.com/ramzidahmani?tab=followers">
